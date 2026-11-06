@@ -1,0 +1,6 @@
+# generated outputs (large, reproducible from scripts + seed)
+datasets/
+scenario_runs/
+hl7_dicom/
+*.dcm
+__pycache__/
